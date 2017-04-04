@@ -20,3 +20,9 @@ WSGIScriptAlias / /var/www/django_test/wsgi.py
 </code>
 
 Configurer ensuite les hôtes depuis settings.py
+
+## Créer une app
+
+<code>
+python manage.py startapp testapp
+</code>
